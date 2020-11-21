@@ -50,7 +50,7 @@ If you find the code and dataset useful in your research, please consider citing
 
 
     @inproceedings{Somphone2014MICCAI,
-        author={Somphone, O., and Allaire, S., and Mory, B. and Dufour, C.},
+        author={O. Somphone, and S. Allaire, and B. Mory, and C. Dufour},
         title={Live Feature Tracking in Ultrasound Liver Sequences with Sparse Demons},
         journal = {International Conference on Medical Image Computing and Computer Assisted Intervention workshop},
         pages = {53-60}, 
