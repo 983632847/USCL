@@ -26,7 +26,7 @@ Coming soon.
 #### Pretraing code 
 Coming soon.
 
-- Download pretrained model on US-4 dataset [model](https://drive.google.com/file/d/1ODH2oeZxZdblmEW725AuZYA51AT9QJH2/view?usp=sharing)
+- Download pretrained model on US-4 dataset [Google Drive](https://drive.google.com/file/d/1ODH2oeZxZdblmEW725AuZYA51AT9QJH2/view?usp=sharing)
 
 #### Environment
 The code is developed with an Intel Xeon Silver 4210R CPU @ 2.4GHz and a single Nvidia Tesla V100 GPU.
