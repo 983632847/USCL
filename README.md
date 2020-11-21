@@ -41,11 +41,11 @@ Licensed under an MIT license.
 
 If you find the code and dataset useful in your research, please consider citing:
 
-    @inproceedings{USCL2020arXiv,
+    @article{USCL2020arXiv,
         title={Effective Sample Pair Generation for Ultrasound Video Contrastive Representation Learning},
-        Author = {Yixiong Chen, and Chunhui Zhang, and Li Liu, and Cheng Feng, and Changfeng Dong, and Yongfang Luo, and Xiang Wan},
-        booktitle = {arXiv},
-        Year = {2020}
+        author = {Yixiong Chen, and Chunhui Zhang, and Li Liu, and Cheng Feng, and Changfeng Dong, and Yongfang Luo, and Xiang Wan},
+        journal = {arXiv},
+        year = {2020}
       }
 
 
@@ -60,7 +60,7 @@ If you find the code and dataset useful in your research, please consider citing
     @inproceedings{Somphone2014MICCAIW,
         author={O. Somphone, and S. Allaire, and B. Mory, and C. Dufour},
         title={Live Feature Tracking in Ultrasound Liver Sequences with Sparse Demons},
-        journal = {International Conference on Medical Image Computing and Computer Assisted Intervention Workshop},
+        booktitle = {International Conference on Medical Image Computing and Computer Assisted Intervention Workshop},
         pages = {53-60}, 
         year={2014},
       }
