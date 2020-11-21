@@ -26,7 +26,7 @@ Coming soon.
 Coming soon.
 
 #### Environment
-The code is developed with an Intel Xeon Silver 4210R CPU@2.4GHz and a single Nvidia Tesla V100 GPU.
+The code is developed with an Intel Xeon Silver 4210R CPU @ 2.4GHz and a single Nvidia Tesla V100 GPU.
 
 
 ### License
