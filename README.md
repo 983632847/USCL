@@ -29,6 +29,10 @@ The US-4 dataset will be available at [US-4](https://github.com/983632847/USCL).
 ### Fine-tune code 
 
 
+### License
+
+Licensed under an MIT license.
+
 ### Citation
 
 If you find the code and dataset useful in your research, please consider citing:
@@ -49,10 +53,10 @@ If you find the code and dataset useful in your research, please consider citing
       }
 
 
-    @inproceedings{Somphone2014MICCAI,
+    @inproceedings{Somphone2014MICCAIW,
         author={O. Somphone, and S. Allaire, and B. Mory, and C. Dufour},
         title={Live Feature Tracking in Ultrasound Liver Sequences with Sparse Demons},
-        journal = {International Conference on Medical Image Computing and Computer Assisted Intervention workshop},
+        journal = {International Conference on Medical Image Computing and Computer Assisted Intervention Workshop},
         pages = {53-60}, 
         year={2014},
       }
