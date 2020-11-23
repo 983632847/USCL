@@ -29,7 +29,7 @@ Coming soon.
 Our pretrained ResNet-18 model on US-4 dataset can be downloaded as following:
 
 Name | epochs | Project head | Classifier | Accuracy | download
----  |:---------:|:---------:|:---------:|:---:
+---  |:---------:|:---------:|:---------:|:---------:|:---:
 ResNet-18 | 300 | Yes | Yes | 94.19 | [model](https://drive.google.com/file/d/1ODH2oeZxZdblmEW725AuZYA51AT9QJH2/view?usp=sharing)
 
 
