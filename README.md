@@ -27,11 +27,6 @@ The US-4 dataset will be available at [US-4](https://github.com/983632847/USCL).
 python eval_pretrained_model.py
 ```
 
-
-#### Train Your Own Model
-Coming soon.
-
-
 Our pretrained ResNet-18 model on US-4 dataset can be downloaded as following:
 
 Name | epochs | Project head | Classifier | Accuracy | download
@@ -40,6 +35,10 @@ ResNet-18 | 300 | Yes | Yes | 94.19 | [model](https://drive.google.com/file/d/1O
 
 
 This repository reports the fine-tuning accuracy (%) on [POCUS](https://arxiv.org/abs/2004.12084) dataset.
+
+
+#### Train Your Own Model
+Coming soon.
 
 
 #### Environment
