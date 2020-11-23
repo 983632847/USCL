@@ -24,7 +24,7 @@ The US-4 dataset will be available at [US-4](https://github.com/983632847/USCL).
 2. Download the model `best_model.pth`
 3. Run the demo with
 ```
-python train.py
+python eval_pretrained_model.py
 ```
 
 
