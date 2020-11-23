@@ -19,7 +19,13 @@ The US-4 dataset will be available at [US-4](https://github.com/983632847/USCL).
 ### Quick Start
 
 #### Fine-tune with Pretrained Model
-Coming soon.
+
+1. Pick a model and its config file, for example, `config.yaml`.
+2. Download the model `best_model.pth`
+3. Run the demo with
+```
+python train.py
+```
 
 
 #### Train Your Own Model
