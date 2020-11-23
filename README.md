@@ -33,7 +33,7 @@ Name | epochs | Project head | Classifier | Accuracy | download
 ResNet-18 | 300 | Yes | Yes | 94.19 | [model](https://drive.google.com/file/d/1ODH2oeZxZdblmEW725AuZYA51AT9QJH2/view?usp=sharing)
 
 
-This repository reports fine-tuning accuracy (%) on [POCUS](https://arxiv.org/abs/2004.12084) dataset.
+This repository reports the fine-tuning accuracy (%) on [POCUS](https://arxiv.org/abs/2004.12084) dataset.
 
 
 #### Environment
