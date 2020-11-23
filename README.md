@@ -1,4 +1,4 @@
-# Effective Sample Pair Generation for Ultrasound Video Contrastive Representation Learning
+# Effective Sample Pair Generation for Ultrasound Video Contrastive Representation Learning [USCL](https://arxiv.org/)
 
 ### Introduction
 
