@@ -18,15 +18,22 @@ The US-4 dataset will be available at [US-4](https://github.com/983632847/USCL).
 
 ### Quick Start
 
-#### Fine-tuning code
+#### Fine-tune with Pretrained Model
 Coming soon.
 
 
-
-#### Pretraing code 
+#### Train Your Own Model
 Coming soon.
 
-- Download pretrained model on US-4 dataset [Google Drive](https://drive.google.com/file/d/1ODH2oeZxZdblmEW725AuZYA51AT9QJH2/view?usp=sharing)
+
+Our pretrained ResNet-18 model on US-4 dataset fine-tuning on [POCUS](https://arxiv.org/abs/2004.12084) can be downloaded as following:
+
+Name | epochs | Project head | Classifier | download
+---  |:---------:|:---------:|:---------:|:---:
+ResNet-18 | 300 | Yes | Yes | [model](https://drive.google.com/file/d/1ODH2oeZxZdblmEW725AuZYA51AT9QJH2/view?usp=sharing)
+
+For more models and information, please refer to ABCNet [README.md](https://github.com/983632847/USCL/edit/main/README.md).
+
 
 #### Environment
 The code is developed with an Intel Xeon Silver 4210R CPU @ 2.4GHz and a single Nvidia Tesla V100 GPU.
