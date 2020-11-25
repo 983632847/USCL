@@ -19,10 +19,10 @@ The US-4 dataset will be available at [US-4](https://github.com/983632847/USCL).
 ### Quick Start
 
 #### Fine-tune with Pretrained Model
-
-1. Pick a model and its config file, for example, `config.yaml`.
+1. Pick a model and its config file, for example, `config.yaml`
 2. Download the model `best_model.pth`
-3. Run the demo with
+3. Download the 5 fold cross validation [POCUS](https://drive.google.com/file/d/111lHpStoY_gYMhCQ-Yt95AreDx0G7-2R/view?usp=sharing) dataset
+4. Run the demo with
 ```
 python eval_pretrained_model.py
 ```
