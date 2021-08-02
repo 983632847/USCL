@@ -38,7 +38,7 @@ This repository reports the fine-tuning accuracy (%) on [POCUS](https://arxiv.or
 
 
 #### Train Your Own Model
-1. Download the [Butterfly(Pwd:butt)](https://pan.baidu.com/s/1tQtDzoditkTft3LMeDfGqw) dataset
+1. Download the [Butterfly](https://pan.baidu.com/s/1tQtDzoditkTft3LMeDfGqw)(Pwd:butt) dataset
 2. Train the USCL model with
 ```
 python run.py
