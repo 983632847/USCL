@@ -1,6 +1,6 @@
 # USCL: Pretraining Deep Ultrasound Image Diagnosis Model through Video Contrastive Representation Learning
 
-### Accepted by MICCAI 2021 (Oral). [Paper Link](https://arxiv.org/abs/2011.13066)
+### Accepted by MICCAI 2021 (Oral). [[Paper Link](https://arxiv.org/abs/2011.13066)]
 
 This repository includes the constructed **US-4** dataset and source codes (PyTorch version) of USCL, to appear in MICCAI 2021.
 
@@ -70,7 +70,7 @@ If you find the code and dataset useful in your research, please consider citing
 
      @article{born2021accelerating,
         title={Accelerating detection of lung pathologies with explainable ultrasound image analysis},
-        author={Born, Jannis and Wiedemann, Nina and Cossio, Manuel and Buhre, Charlotte and Br{\"a}ndle, Gabriel and Leidermann, Konstantin and Aujayeb, Avinash and Moor, Michael             and Rieck, Bastian and Borgwardt, Karsten},
+        author={Born, Jannis and Wiedemann, Nina and Cossio, Manuel and Buhre, Charlotte and Br{\"a}ndle, Gabriel and Leidermann, Konstantin and Aujayeb, Avinash and Moor, Michael and Rieck, Bastian and Borgwardt, Karsten},
         journal={Applied Sciences},
         pages={672},
         year={2021},
