@@ -48,6 +48,8 @@ python run.py
 #### Environment
 The code is developed with an Intel Xeon Silver 4210R CPU @ 2.4GHz and a single Nvidia Tesla V100 GPU.
 
+The install script has been tested on an Ubuntu 18.04 system.
+
 :cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud:
 
 ### License
@@ -58,7 +60,7 @@ Licensed under an MIT license.
 
 If you find the code and dataset useful in your research, please consider citing:
 
-    @article{USCL2020arXiv,
+    @article{Chen2021MICCAI,
         title={USCL: Pretraining Deep Ultrasound Image Diagnosis Model through Video Contrastive Representation Learning},
         author = {Yixiong Chen, and Chunhui Zhang, and Li Liu, and Cheng Feng, and Changfeng Dong, and Yongfang Luo, and Xiang Wan},
         journal = {MICCAI},
