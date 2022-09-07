@@ -13,6 +13,8 @@ Most deep neural networks (DNNs) based ultrasound (US) medical image analysis mo
 ### US-4 dataset
 The US-4 dataset will be available at [US-4](https://github.com/983632847/USCL).
 
+We are reorganizing data and negotiating open source methods, and we will continue to open source after these were done.
+
 ![image](https://github.com/983632847/USCL/blob/main/Examples_US4.png)
 
 
